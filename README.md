@@ -1,2 +1,1 @@
-# LiterAlura
-Catálogo de libros: el LiterAlura
+# LiterAlura - Catálogo de Libros
